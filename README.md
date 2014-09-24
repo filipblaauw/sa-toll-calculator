@@ -1,4 +1,6 @@
 sa-toll-calculator
 ==================
 
-Simple form with query for calculating toll
+Simple form with jquery for calculating toll
+
+The toll prices is defined in an array in variable jobTotal
